@@ -1,0 +1,4 @@
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Readability\bin\Debug\Readability.dll
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Readability\bin\Debug\Readability.pdb
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Readability\obj\Debug\Readability.dll
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Readability\obj\Debug\Readability.pdb

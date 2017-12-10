@@ -1,0 +1,9 @@
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Swappability.Tests\bin\Debug\Swappability.Tests.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Swappability.Tests\bin\Debug\Swappability.Tests.pdb
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Swappability.Tests\bin\Debug\nunit.framework.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Swappability.Tests\bin\Debug\Swappability.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Swappability.Tests\bin\Debug\Swappability.pdb
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Swappability.Tests\bin\Debug\nunit.framework.xml
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Swappability.Tests\obj\Debug\Swappability.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Swappability.Tests\obj\Debug\Swappability.Tests.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Swappability.Tests\obj\Debug\Swappability.Tests.pdb

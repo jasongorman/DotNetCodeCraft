@@ -1,0 +1,5 @@
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TestAssurance\bin\Debug\TestAssurance.dll
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TestAssurance\bin\Debug\TestAssurance.pdb
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TestAssurance\obj\Debug\TestAssurance.csprojResolveAssemblyReference.cache
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TestAssurance\obj\Debug\TestAssurance.dll
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TestAssurance\obj\Debug\TestAssurance.pdb

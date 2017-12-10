@@ -1,0 +1,9 @@
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TellDontAsk.Tests\bin\Debug\TellDontAsk.Tests.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TellDontAsk.Tests\bin\Debug\TellDontAsk.Tests.pdb
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TellDontAsk.Tests\bin\Debug\nunit.framework.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TellDontAsk.Tests\bin\Debug\TellDontAsk.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TellDontAsk.Tests\bin\Debug\TellDontAsk.pdb
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TellDontAsk.Tests\bin\Debug\nunit.framework.xml
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TellDontAsk.Tests\obj\Debug\TellDontAsk.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TellDontAsk.Tests\obj\Debug\TellDontAsk.Tests.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TellDontAsk.Tests\obj\Debug\TellDontAsk.Tests.pdb

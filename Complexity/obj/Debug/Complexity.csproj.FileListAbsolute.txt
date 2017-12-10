@@ -1,0 +1,5 @@
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Complexity\bin\Debug\Complexity.dll
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Complexity\bin\Debug\Complexity.pdb
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Complexity\obj\Debug\Complexity.csprojResolveAssemblyReference.cache
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Complexity\obj\Debug\Complexity.dll
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Complexity\obj\Debug\Complexity.pdb

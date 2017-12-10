@@ -1,0 +1,9 @@
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Complexity.Tests\bin\Debug\Complexity.Tests.dll
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Complexity.Tests\bin\Debug\Complexity.Tests.pdb
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Complexity.Tests\bin\Debug\Complexity.dll
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Complexity.Tests\bin\Debug\nunit.framework.dll
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Complexity.Tests\bin\Debug\Complexity.pdb
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Complexity.Tests\bin\Debug\nunit.framework.xml
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Complexity.Tests\obj\Debug\Complexity.Tests.csprojResolveAssemblyReference.cache
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Complexity.Tests\obj\Debug\Complexity.Tests.dll
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Complexity.Tests\obj\Debug\Complexity.Tests.pdb

@@ -1,0 +1,5 @@
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TellDontAsk\bin\Debug\TellDontAsk.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TellDontAsk\bin\Debug\TellDontAsk.pdb
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TellDontAsk\obj\Debug\TellDontAsk.csprojResolveAssemblyReference.cache
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TellDontAsk\obj\Debug\TellDontAsk.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TellDontAsk\obj\Debug\TellDontAsk.pdb

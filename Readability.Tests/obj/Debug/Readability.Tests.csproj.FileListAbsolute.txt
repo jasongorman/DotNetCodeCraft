@@ -1,0 +1,9 @@
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Readability.Tests\bin\Debug\Readability.Tests.dll
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Readability.Tests\bin\Debug\Readability.Tests.pdb
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Readability.Tests\bin\Debug\nunit.framework.dll
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Readability.Tests\bin\Debug\Readability.dll
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Readability.Tests\bin\Debug\Readability.pdb
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Readability.Tests\bin\Debug\nunit.framework.xml
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Readability.Tests\obj\Debug\Readability.Tests.csprojResolveAssemblyReference.cache
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Readability.Tests\obj\Debug\Readability.Tests.dll
+c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Readability.Tests\obj\Debug\Readability.Tests.pdb
