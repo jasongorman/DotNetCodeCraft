@@ -3,3 +3,7 @@ C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Swapp
 C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Swappability\obj\Debug\Swappability.csprojResolveAssemblyReference.cache
 C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Swappability\obj\Debug\Swappability.dll
 C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Swappability\obj\Debug\Swappability.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Swappability\bin\Debug\Swappability.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Swappability\bin\Debug\Swappability.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Swappability\obj\Debug\Swappability.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Swappability\obj\Debug\Swappability.pdb

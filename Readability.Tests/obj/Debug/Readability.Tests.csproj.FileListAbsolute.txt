@@ -7,3 +7,10 @@ c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Reada
 c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Readability.Tests\obj\Debug\Readability.Tests.csprojResolveAssemblyReference.cache
 c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Readability.Tests\obj\Debug\Readability.Tests.dll
 c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Readability.Tests\obj\Debug\Readability.Tests.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Readability.Tests\bin\Debug\Readability.Tests.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Readability.Tests\bin\Debug\Readability.Tests.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Readability.Tests\bin\Debug\Readability.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Readability.Tests\bin\Debug\Readability.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Readability.Tests\obj\Debug\Readability.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Readability.Tests\obj\Debug\Readability.Tests.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Readability.Tests\obj\Debug\Readability.Tests.pdb

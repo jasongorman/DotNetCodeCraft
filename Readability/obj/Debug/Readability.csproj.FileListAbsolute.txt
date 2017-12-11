@@ -2,3 +2,7 @@ c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Reada
 c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Readability\bin\Debug\Readability.pdb
 c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Readability\obj\Debug\Readability.dll
 c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Readability\obj\Debug\Readability.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Readability\bin\Debug\Readability.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Readability\bin\Debug\Readability.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Readability\obj\Debug\Readability.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Readability\obj\Debug\Readability.pdb

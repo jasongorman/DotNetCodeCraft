@@ -7,3 +7,10 @@ C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TellD
 C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TellDontAsk.Tests\obj\Debug\TellDontAsk.Tests.csprojResolveAssemblyReference.cache
 C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TellDontAsk.Tests\obj\Debug\TellDontAsk.Tests.dll
 C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TellDontAsk.Tests\obj\Debug\TellDontAsk.Tests.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\TellDontAsk.Tests\bin\Debug\TellDontAsk.Tests.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\TellDontAsk.Tests\bin\Debug\TellDontAsk.Tests.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\TellDontAsk.Tests\bin\Debug\TellDontAsk.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\TellDontAsk.Tests\bin\Debug\TellDontAsk.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\TellDontAsk.Tests\obj\Debug\TellDontAsk.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\TellDontAsk.Tests\obj\Debug\TellDontAsk.Tests.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\TellDontAsk.Tests\obj\Debug\TellDontAsk.Tests.pdb

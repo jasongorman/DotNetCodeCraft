@@ -2,3 +2,7 @@ c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Dupli
 c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Duplication\bin\Debug\Duplication.pdb
 c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Duplication\obj\Debug\Duplication.dll
 c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Duplication\obj\Debug\Duplication.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Duplication\bin\Debug\Duplication.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Duplication\bin\Debug\Duplication.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Duplication\obj\Debug\Duplication.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Duplication\obj\Debug\Duplication.pdb

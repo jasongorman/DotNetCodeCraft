@@ -7,3 +7,10 @@ c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Dupli
 c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Duplication.Tests\obj\Debug\Duplication.Tests.csprojResolveAssemblyReference.cache
 c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Duplication.Tests\obj\Debug\Duplication.Tests.dll
 c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Duplication.Tests\obj\Debug\Duplication.Tests.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Duplication.Tests\bin\Debug\Duplication.Tests.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Duplication.Tests\bin\Debug\Duplication.Tests.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Duplication.Tests\bin\Debug\Duplication.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Duplication.Tests\bin\Debug\Duplication.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Duplication.Tests\obj\Debug\Duplication.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Duplication.Tests\obj\Debug\Duplication.Tests.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Duplication.Tests\obj\Debug\Duplication.Tests.pdb

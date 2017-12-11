@@ -3,3 +3,7 @@ c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TestA
 c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TestAssurance\obj\Debug\TestAssurance.csprojResolveAssemblyReference.cache
 c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TestAssurance\obj\Debug\TestAssurance.dll
 c:\users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\TestAssurance\obj\Debug\TestAssurance.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\TestAssurance\bin\Debug\TestAssurance.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\TestAssurance\bin\Debug\TestAssurance.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\TestAssurance\obj\Debug\TestAssurance.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\TestAssurance\obj\Debug\TestAssurance.pdb

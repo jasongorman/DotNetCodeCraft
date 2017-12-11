@@ -7,3 +7,10 @@ C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Swapp
 C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Swappability.Tests\obj\Debug\Swappability.Tests.csprojResolveAssemblyReference.cache
 C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Swappability.Tests\obj\Debug\Swappability.Tests.dll
 C:\Users\jasongorman\documents\visual studio 2013\Projects\DotNetCodeCraft\Swappability.Tests\obj\Debug\Swappability.Tests.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Swappability.Tests\bin\Debug\Swappability.Tests.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Swappability.Tests\bin\Debug\Swappability.Tests.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Swappability.Tests\bin\Debug\Swappability.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Swappability.Tests\bin\Debug\Swappability.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Swappability.Tests\obj\Debug\Swappability.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Swappability.Tests\obj\Debug\Swappability.Tests.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Swappability.Tests\obj\Debug\Swappability.Tests.pdb
