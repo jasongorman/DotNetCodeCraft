@@ -1,6 +1,6 @@
 ﻿namespace Readability
 {
-    public class User
+    public class Passenger
     {
     }
 }

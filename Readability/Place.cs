@@ -2,6 +2,6 @@
 {
     public class Place
     {
-        public User FlaggedFor { get; set; }
+        public Passenger FlaggedFor { get; set; }
     }
 }

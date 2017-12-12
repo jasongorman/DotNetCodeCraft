@@ -8,8 +8,8 @@ namespace Readability.Tests
         [Test]
         public void AllocateFlagsPlaceForUser()
         {
-            var placeRepository = new PlaceRepository();
-            var user = new User();
+            var placeRepository = new Flight();
+            var user = new Passenger();
             var place = placeRepository.Allocate("A", 1, user);
             Assert.AreSame(user, place.FlaggedFor);
         }

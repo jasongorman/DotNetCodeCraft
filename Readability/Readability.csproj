@@ -40,9 +40,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Place.cs" />
-    <Compile Include="PlaceRepository.cs" />
+    <Compile Include="Flight.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="User.cs" />
+    <Compile Include="Passenger.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="requirements.txt" />

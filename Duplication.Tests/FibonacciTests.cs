@@ -10,17 +10,13 @@ namespace Duplication.Tests
     [TestFixture]
     public class FibonacciTests
     {
-        [Test]
-        public void FirstNumberIsZero()
+        [TestCase(0)]
+        [TestCase(1)]
+        public void FirstTwoAreSameAsIndex(int index)
         {
-            Assert.AreEqual(0, new Fibonacci().Calculate(0));
+            Assert.AreEqual(index, new Fibonacci().Calculate(index));
         }
 
-        [Test]
-        public void SecondNumberIsOne()
-        {
-            Assert.AreEqual(1, new Fibonacci().Calculate(1));
-        }
 
         [Test]
         public void ThirdNumberIsOne()

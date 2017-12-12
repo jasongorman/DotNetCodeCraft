@@ -1,8 +1,8 @@
 namespace Swappability
 {
-    public class Imdb
+    public class Imdb : Ratings
     {
-        public static double FetchRating(string imdbId)
+        public double FetchRating(string imdbId)
         {
             // faked response from real IMDB API
             if (imdbId == "tt0111161")

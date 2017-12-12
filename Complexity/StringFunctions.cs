@@ -14,7 +14,7 @@ namespace Complexity
 
         public string DeprofanedBackwardsToLowerCaseTrimmed(string input)
         {
-            input = input.ToLower();
+            input = ToLower(input);
 
             foreach (var word in _curseWords)
             {
@@ -25,6 +25,11 @@ namespace Complexity
 
             return input.Trim();
 
+        }
+
+        private string ToLower(string input)
+        {
+            return input.ToLower();
         }
     }
 }

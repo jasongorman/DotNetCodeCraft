@@ -45,7 +45,7 @@ namespace TellDontAsk.Tests
 
         private double CalculateAreaOfCarpet(double roomWidth, double roomLength)
         {
-            return CreateCarpetQuoteForRoom(null, roomWidth, roomLength).CalculateAreaOfCarpet();
+            return CreateCarpetQuoteForRoom(null, roomWidth, roomLength).Room.CalculateAreaOfCarpet();
         }
 
         private CarpetQuote CreateCarpetQuoteForRoom(Carpet carpet, double width, double length)

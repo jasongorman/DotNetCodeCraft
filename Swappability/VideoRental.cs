@@ -9,15 +9,17 @@ namespace Swappability
     public class VideoRental
     {
         private readonly string _imdbId;
+        private readonly Ratings _ratings;
 
-        public VideoRental(string imdbId)
+        public VideoRental(string imdbId, Ratings imdb)
         {
             _imdbId = imdbId;
+            _ratings = imdb;
         }
 
         public double CalculatePrice()
         {
-            double imdbRating = Imdb.FetchRating(_imdbId);
+            double imdbRating = _ratings.FetchRating(_imdbId);
             double price = 3.95;
 
             if (imdbRating >= 8.0)

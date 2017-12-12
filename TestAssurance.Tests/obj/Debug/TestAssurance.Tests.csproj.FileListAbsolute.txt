@@ -1,0 +1,9 @@
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\TestAssurance.Tests\bin\Debug\TestAssurance.Tests.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\TestAssurance.Tests\bin\Debug\TestAssurance.Tests.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\TestAssurance.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\TestAssurance.Tests\bin\Debug\TestAssurance.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\TestAssurance.Tests\bin\Debug\TestAssurance.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\TestAssurance.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\TestAssurance.Tests\obj\Debug\TestAssurance.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\TestAssurance.Tests\obj\Debug\TestAssurance.Tests.dll
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\TestAssurance.Tests\obj\Debug\TestAssurance.Tests.pdb

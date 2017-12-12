@@ -6,3 +6,4 @@ C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Readability\bin\Debug\Readabilit
 C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Readability\bin\Debug\Readability.pdb
 C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Readability\obj\Debug\Readability.dll
 C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Readability\obj\Debug\Readability.pdb
+C:\Users\Jason\Documents\GitHub\DotNetCodeCraft\Readability\obj\Debug\Readability.csprojResolveAssemblyReference.cache

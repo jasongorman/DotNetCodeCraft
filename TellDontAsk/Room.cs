@@ -10,5 +10,10 @@ namespace TellDontAsk
 
         public double Width { get; private set; }
         public double Length { get; private set; }
+
+        public double CalculateAreaOfCarpet()
+        {
+            return Width *Length;
+        }
     }
 }

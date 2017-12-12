@@ -13,14 +13,14 @@ namespace TellDontAsk
             _carpet = carpet;
         }
 
-        public double CalculateAreaOfCarpet()
+        public Room Room
         {
-            return _room.Width *_room.Length;
+            get { return _room; }
         }
 
         public double CalculateTotalPrice()
         {
-            var totalCostAsDecimal = CalculateAreaOfCarpet()*_carpet.PricePerSquareMetre;
+            var totalCostAsDecimal = _room.CalculateAreaOfCarpet()*_carpet.PricePerSquareMetre;
             if (_carpet.IsRoundedUpToWholeSquareMetre)
                 return (double)Math.Ceiling(totalCostAsDecimal);
             return (double)totalCostAsDecimal;

@@ -32,6 +32,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{635925
 		.nuget\packages.config = .nuget\packages.config
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAssurance.Tests", "TestAssurance.Tests\TestAssurance.Tests.csproj", "{84C45B29-21E4-48B0-AD06-1B390F23BB3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,6 +88,10 @@ Global
 		{653DA6F4-A7C9-414F-86B5-2667E03FBD2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{653DA6F4-A7C9-414F-86B5-2667E03FBD2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{653DA6F4-A7C9-414F-86B5-2667E03FBD2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84C45B29-21E4-48B0-AD06-1B390F23BB3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84C45B29-21E4-48B0-AD06-1B390F23BB3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84C45B29-21E4-48B0-AD06-1B390F23BB3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84C45B29-21E4-48B0-AD06-1B390F23BB3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
